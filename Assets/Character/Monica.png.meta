@@ -1,0 +1,1399 @@
+fileFormatVersion: 2
+guid: d413e222b6c96cf4c8e2d4b926524df1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1298373496388669067
+    second: Monica_0
+  - first:
+      213: 4707359981313081442
+    second: Monica_1
+  - first:
+      213: 756349226476675266
+    second: Monica_2
+  - first:
+      213: 5334859781740418900
+    second: Monica_3
+  - first:
+      213: 374265232740240056
+    second: Monica_4
+  - first:
+      213: -6109534608075917683
+    second: Monica_5
+  - first:
+      213: -5293330095638468129
+    second: Monica_6
+  - first:
+      213: 2942998298144397012
+    second: Monica_7
+  - first:
+      213: -4279625265842765228
+    second: Monica_8
+  - first:
+      213: 4045501982671329089
+    second: Monica_9
+  - first:
+      213: -1474657811610520792
+    second: Monica_10
+  - first:
+      213: -674534651970259434
+    second: Monica_11
+  - first:
+      213: 9031495159514465025
+    second: Monica_12
+  - first:
+      213: 3446860634928135780
+    second: Monica_13
+  - first:
+      213: 2854612846640957318
+    second: Monica_14
+  - first:
+      213: -7179576278454034336
+    second: Monica_15
+  - first:
+      213: -3514391343430105759
+    second: Monica_16
+  - first:
+      213: 6008469109486136896
+    second: Monica_17
+  - first:
+      213: 8082752538233621972
+    second: Monica_18
+  - first:
+      213: -511471526509869878
+    second: Monica_19
+  - first:
+      213: -6644135251279090665
+    second: Monica_20
+  - first:
+      213: -5433666586726140221
+    second: Monica_21
+  - first:
+      213: -7330374276402498776
+    second: Monica_22
+  - first:
+      213: -767888677917067821
+    second: Monica_23
+  - first:
+      213: 2306571192487478719
+    second: Monica_24
+  - first:
+      213: -8125457627189010485
+    second: Monica_25
+  - first:
+      213: 8169729839215310625
+    second: Monica_26
+  - first:
+      213: 67830882231175383
+    second: Monica_27
+  - first:
+      213: 6583046354186887000
+    second: Monica_28
+  - first:
+      213: 8939630150730783179
+    second: Monica_29
+  - first:
+      213: 6841922066107120778
+    second: Monica_30
+  - first:
+      213: 3484047367224899331
+    second: Monica_31
+  - first:
+      213: -1472257095514717527
+    second: Monica_32
+  - first:
+      213: -369804964786578668
+    second: Monica_33
+  - first:
+      213: -2176722574823085584
+    second: Monica_34
+  - first:
+      213: -4480496175207693225
+    second: Monica_35
+  - first:
+      213: 5929011375965742730
+    second: Monica_36
+  - first:
+      213: 55029121122222072
+    second: Monica_37
+  - first:
+      213: -2465702629061960204
+    second: Monica_38
+  - first:
+      213: -557489712705379804
+    second: Monica_39
+  - first:
+      213: 5968319015384593950
+    second: Monica_40
+  - first:
+      213: 4625899542844821444
+    second: Monica_41
+  - first:
+      213: 369605102122850501
+    second: Monica_42
+  - first:
+      213: 6315918403956248006
+    second: Monica_43
+  - first:
+      213: 8897089464612519739
+    second: Monica_44
+  - first:
+      213: -6954961721876072597
+    second: Monica_45
+  - first:
+      213: -4081832552763231568
+    second: Monica_46
+  - first:
+      213: -8247643136413916874
+    second: Monica_47
+  - first:
+      213: -3289943766034817320
+    second: Monica_48
+  - first:
+      213: 8457970550464350771
+    second: Monica_49
+  - first:
+      213: 7320893804796449947
+    second: Monica_50
+  - first:
+      213: 1146348691605827973
+    second: Monica_51
+  - first:
+      213: 1212228723595025422
+    second: Monica_52
+  - first:
+      213: 8341929661784810219
+    second: Monica_53
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monica_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 320
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec325f315582c2448734b451fd303b6
+      internalID: 1298373496388669067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 319
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1706e9301b00b041b3e37acf17aef41
+      internalID: 4707359981313081442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 320
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a422b08aa8fddfe41a280f37d080452f
+      internalID: 756349226476675266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 319
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7728bb385dac141977b31c1c50f90c
+      internalID: 5334859781740418900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 320
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce74f07550792a4ca0fdd38b22cc6af
+      internalID: 374265232740240056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 319
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b8e3a6c53f1da469c17a6e0117950e
+      internalID: -6109534608075917683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 320
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc29af0d4b0fe244e8dc452c6e2cb338
+      internalID: -5293330095638468129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 320
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d556cc3a0175b0f45bc7092108c23e90
+      internalID: 2942998298144397012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 320
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf72ab71ce0eeda4687f904ec3f4301b
+      internalID: -4279625265842765228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 256
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3463d8c61156c564e8acc229249d1265
+      internalID: 4045501982671329089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 256
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa5325291a2700419779a8293ee3d46
+      internalID: -1474657811610520792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 256
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7db001cc12a1f149b8ca713d2c3c7ec
+      internalID: -674534651970259434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 256
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a11f081c868334482ae4299ca86379
+      internalID: 9031495159514465025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 256
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471c735d465292a489f4b6fd1e6921f4
+      internalID: 3446860634928135780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 256
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c531c93b6c7865488f2871ac8600c54
+      internalID: 2854612846640957318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_15
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 256
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271da729f8efdeb41aad85da05da279a
+      internalID: -7179576278454034336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 257
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88692646075c1634bb56dd092d9f8710
+      internalID: -3514391343430105759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 258
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2714a5b23e024ec44ad7b1f0e82694b0
+      internalID: 6008469109486136896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 192
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69a8c5c7694b364c9e6e22df482a57b
+      internalID: 8082752538233621972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 192
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0cc03c40d4eb640a039a230e3ddf50
+      internalID: -511471526509869878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 192
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca953b5b2c71f0540a3e07a5c6dfcd4f
+      internalID: -6644135251279090665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 192
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560d00f1044aec94082a1bc8afbebef9
+      internalID: -5433666586726140221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 192
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b40a9cf87f309f41b7c2402fd9c16d4
+      internalID: -7330374276402498776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 192
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63791306bbc93204aaf8e230a64a6362
+      internalID: -767888677917067821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_24
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 192
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68db988e384851b4c8bec7a490524c3e
+      internalID: 2306571192487478719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_25
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 192
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e32252929dc87458cebeac0950fa72
+      internalID: -8125457627189010485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_26
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 192
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668989c8e283dcb43aed4b4ad8e6a48c
+      internalID: 8169729839215310625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 128
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8866fcd172444448f6515d313f7711
+      internalID: 67830882231175383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 128
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0c528ab85ba0c4b97c85d2f08bdbcc
+      internalID: 6583046354186887000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 128
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf445a69dca0a74ab2e0c3bc6e4764a
+      internalID: 8939630150730783179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 128
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f799478a7e364479def62a69ac230b
+      internalID: 6841922066107120778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_31
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 128
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76a1728486821345bbe1e6db6430d59
+      internalID: 3484047367224899331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_32
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 128
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5c954028ec3f34bb17ee05da08294a
+      internalID: -1472257095514717527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_33
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 128
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a6a56d069af7647aba9da39e496eec
+      internalID: -369804964786578668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_34
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 128
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ca1cf486f79bb42bdfe9d61b099724
+      internalID: -2176722574823085584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_35
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 128
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bda41a87649850488d87ee9024f381f
+      internalID: -4480496175207693225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 64
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8ed12e3cda6f447bb7cb747a22b218
+      internalID: 5929011375965742730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_37
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 64
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4403eb71454e5514f94698823fbd4546
+      internalID: 55029121122222072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_38
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 64
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c567f8441f125b24b83c30fa1bd06ca0
+      internalID: -2465702629061960204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_39
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 64
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427c6784e831ec242accd26fcd8b4e89
+      internalID: -557489712705379804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 64
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f66bc91609fd24db8d9b87621983fd
+      internalID: 5968319015384593950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_41
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 64
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efe86d29fab7874eb911aecc94a4d4c
+      internalID: 4625899542844821444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_42
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 64
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1279ad7c8603254097ebf34a8edb2b3
+      internalID: 369605102122850501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_43
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 64
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d63cdc5ece7ace4badec77d97d290d5
+      internalID: 6315918403956248006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_44
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 64
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4670297b4b3f6f54e8852ad6fb118fff
+      internalID: 8897089464612519739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ff688aa878f06458e3e646b8cc8d22
+      internalID: -6954961721876072597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168a9c092abd49a49bc0e0b1e1f5b3a4
+      internalID: -4081832552763231568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_47
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b66c505e1ffe94aa91b0906bca35f5
+      internalID: -8247643136413916874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_48
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecb3458a1fc0704480720f8672c5d7f
+      internalID: -3289943766034817320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_49
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e53885f5bdb6d4f9ee8ee2741162c6
+      internalID: 8457970550464350771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_50
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2967bdf2bed6ade45bd8fbce5dce0f23
+      internalID: 7320893804796449947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea53b033436cd94880efa565f8afb11
+      internalID: 1146348691605827973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea664fe7d84e474fa498ac0d03380a7
+      internalID: 1212228723595025422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monica_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4241844cbc90b74486f832cb23eefe3
+      internalID: 8341929661784810219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
