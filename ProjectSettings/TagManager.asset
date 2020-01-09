@@ -21,7 +21,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - TextPanel
   - 
   - 
   - 
@@ -40,4 +40,34 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 2070137139
+    locked: 0
+  - name: New Layer
+    uniqueID: 2294621087
+    locked: 0
+  - name: New Layer
+    uniqueID: 229327819
+    locked: 0
+  - name: New Layer
+    uniqueID: 1578713387
+    locked: 0
+  - name: New Layer
+    uniqueID: 509504017
+    locked: 0
+  - name: New Layer
+    uniqueID: 463795751
+    locked: 0
+  - name: New Layer
+    uniqueID: 332456823
+    locked: 0
+  - name: Panel
+    uniqueID: 3171597143
+    locked: 0
+  - name: IsiPanel
+    uniqueID: 3057555469
+    locked: 0
+  - name: IsiPanel2
+    uniqueID: 225111857
     locked: 0
