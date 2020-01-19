@@ -105,7 +105,7 @@ public class PlayerController : MonoBehaviour
     {
         if (collision.transform.tag.Equals("Coin"))
         {
-            //Data.score += 15;
+            Data.score += 15;
             Destroy(collision.gameObject);
         }
     }
