@@ -41,6 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Object
+    uniqueID: 332456823
+    locked: 0
   - name: New Layer
     uniqueID: 2070137139
     locked: 0
@@ -59,9 +62,6 @@ TagManager:
   - name: New Layer
     uniqueID: 463795751
     locked: 0
-  - name: New Layer
-    uniqueID: 332456823
-    locked: 0
   - name: Panel
     uniqueID: 3171597143
     locked: 0
@@ -70,4 +70,7 @@ TagManager:
     locked: 0
   - name: IsiPanel2
     uniqueID: 225111857
+    locked: 0
+  - name: New Layer
+    uniqueID: 3491866497
     locked: 0
