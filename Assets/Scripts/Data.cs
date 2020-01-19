@@ -5,4 +5,5 @@ using UnityEngine;
 public class Data : MonoBehaviour
 {
     public static int score;
+    public static int nyawa = 5;
 }
