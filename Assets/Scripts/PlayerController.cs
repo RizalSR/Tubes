@@ -81,14 +81,14 @@ public class PlayerController : MonoBehaviour
             // Kondisi ketika bergerak ke kekanan
             if (!isJump) anim.SetTrigger("Run");
             transform.Translate(1 * Time.deltaTime * 5f, 0, 0);
-            transform.localScale = new Vector3(-1f, 1f, 1f);
+            transform.localScale = new Vector3(2f, 2f, 2f);
         }
         if (idMove == 2 && !isDead)
         {
             // Kondisi ketika bergerak ke kiri
             if (!isJump) anim.SetTrigger("Run");
             transform.Translate(-1 * Time.deltaTime * 5f, 0, 0);
-            transform.localScale = new Vector3(1f, 1f, 1f);
+            transform.localScale = new Vector3(-2f, 2f, 2f);
         }
     }
     
