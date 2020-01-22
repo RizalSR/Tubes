@@ -71,9 +71,9 @@ public class Setting : MonoBehaviour
         SceneManager.LoadScene("Menu");
     }
     
-    // Update is called once per frame
-    void Update()
+    public void KeluarPermainan()
     {
-        
+        Application.Quit();
+        Debug.Log("Keluar");
     }
 }
