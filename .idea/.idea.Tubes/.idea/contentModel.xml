@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Project\Tubes" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Abandoned Castle Platform Set" t="Include">
+          <e p="Help File.txt" t="Include" />
+        </e>
+        <e p="GameDataEditor" t="Include">
+          <e p="APIScripts" t="Include">
+            <e p="GDEDataManager.cs" t="Include" />
+            <e p="GDEExtensions.cs" t="Include" />
+            <e p="GDEPPX_Convert.cs" t="Include" />
+            <e p="GDEPPX_Get.cs" t="Include" />
+            <e p="GDEPPX_Misc.cs" t="Include" />
+            <e p="GDEPPX_Set.cs" t="Include" />
+            <e p="GDMConstants.cs" t="Include" />
+            <e p="MiniJSON.cs" t="Include" />
+          </e>
+          <e p="CustomExtensions" t="Include">
+            <e p="IGDEData.cs" t="Include" />
+          </e>
+          <e p="Encryption" t="Include">
+            <e p="GDECrypto.cs" t="Include" />
+          </e>
+          <e p="ICode" t="Include">
+            <e p="GDEActionBase.cs" t="Include" />
+            <e p="GDEGetAudioClip.cs" t="Include" />
+            <e p="GDEGetBool.cs" t="Include" />
+            <e p="GDEGetColor.cs" t="Include" />
+            <e p="GDEGetCustomAudioClip.cs" t="Include" />
+            <e p="GDEGetCustomBool.cs" t="Include" />
+            <e p="GDEGetCustomColor.cs" t="Include" />
+            <e p="GDEGetCustomFloat.cs" t="Include" />
+            <e p="GDEGetCustomGameObject.cs" t="Include" />
+            <e p="GDEGetCustomInt.cs" t="Include" />
+            <e p="GDEGetCustomMaterial.cs" t="Include" />
+            <e p="GDEGetCustomString.cs" t="Include" />
+            <e p="GDEGetCustomTexture2D.cs" t="Include" />
+            <e p="GDEGetCustomVector2.cs" t="Include" />
+            <e p="GDEGetCustomVector3.cs" t="Include" />
+            <e p="GDEGetFloat.cs" t="Include" />
+            <e p="GDEGetGameObject.cs" t="Include" />
+            <e p="GDEGetInt.cs" t="Include" />
+            <e p="GDEGetMaterial.cs" t="Include" />
+            <e p="GDEGetString.cs" t="Include" />
+            <e p="GDEGetTexture2D.cs" t="Include" />
+            <e p="GDEGetVector2.cs" t="Include" />
+            <e p="GDEGetVector3.cs" t="Include" />
+            <e p="GDEManagerInit.cs" t="Include" />
+            <e p="GDEResetCustomField.cs" t="Include" />
+            <e p="GDEResetField.cs" t="Include" />
+            <e p="GDESetBool.cs" t="Include" />
+            <e p="GDESetColor.cs" t="Include" />
+            <e p="GDESetCustom.cs" t="Include" />
+            <e p="GDESetCustomBool.cs" t="Include" />
+            <e p="GDESetCustomColor.cs" t="Include" />
+            <e p="GDESetCustomFloat.cs" t="Include" />
+            <e p="GDESetCustomInt.cs" t="Include" />
+            <e p="GDESetCustomString.cs" t="Include" />
+            <e p="GDESetCustomVector2.cs" t="Include" />
+            <e p="GDESetCustomVector3.cs" t="Include" />
+            <e p="GDESetFloat.cs" t="Include" />
+            <e p="GDESetInt.cs" t="Include" />
+            <e p="GDESetString.cs" t="Include" />
+            <e p="GDESetVector2.cs" t="Include" />
+            <e p="GDESetVector3.cs" t="Include" />
+          </e>
+          <e p="Playmaker" t="Include">
+            <e p="GDEActionBase.cs" t="Include" />
+            <e p="GDEGetAudioClip.cs" t="Include" />
+            <e p="GDEGetBool.cs" t="Include" />
+            <e p="GDEGetColor.cs" t="Include" />
+            <e p="GDEGetCustomAudioClip.cs" t="Include" />
+            <e p="GDEGetCustomBool.cs" t="Include" />
+            <e p="GDEGetCustomColor.cs" t="Include" />
+            <e p="GDEGetCustomFloat.cs" t="Include" />
+            <e p="GDEGetCustomGameObject.cs" t="Include" />
+            <e p="GDEGetCustomInt.cs" t="Include" />
+            <e p="GDEGetCustomMaterial.cs" t="Include" />
+            <e p="GDEGetCustomString.cs" t="Include" />
+            <e p="GDEGetCustomTexture2D.cs" t="Include" />
+            <e p="GDEGetCustomVector2.cs" t="Include" />
+            <e p="GDEGetCustomVector3.cs" t="Include" />
+            <e p="GDEGetFloat.cs" t="Include" />
+            <e p="GDEGetGameObject.cs" t="Include" />
+            <e p="GDEGetInt.cs" t="Include" />
+            <e p="GDEGetMaterial.cs" t="Include" />
+            <e p="GDEGetString.cs" t="Include" />
+            <e p="GDEGetTexture2D.cs" t="Include" />
+            <e p="GDEGetVector2.cs" t="Include" />
+            <e p="GDEGetVector3.cs" t="Include" />
+            <e p="GDEManagerInit.cs" t="Include" />
+            <e p="GDEResetCustomField.cs" t="Include" />
+            <e p="GDEResetField.cs" t="Include" />
+            <e p="GDESetBool.cs" t="Include" />
+            <e p="GDESetColor.cs" t="Include" />
+            <e p="GDESetCustom.cs" t="Include" />
+            <e p="GDESetCustomBool.cs" t="Include" />
+            <e p="GDESetCustomColor.cs" t="Include" />
+            <e p="GDESetCustomFloat.cs" t="Include" />
+            <e p="GDESetCustomInt.cs" t="Include" />
+            <e p="GDESetCustomString.cs" t="Include" />
+            <e p="GDESetCustomVector2.cs" t="Include" />
+            <e p="GDESetCustomVector3.cs" t="Include" />
+            <e p="GDESetFloat.cs" t="Include" />
+            <e p="GDESetInt.cs" t="Include" />
+            <e p="GDESetString.cs" t="Include" />
+            <e p="GDESetVector2.cs" t="Include" />
+            <e p="GDESetVector3.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AnswerButton.cs" t="Include" />
+          <e p="AnswerData.cs" t="Include" />
+          <e p="DataController.cs" t="Include" />
+          <e p="GameController.cs" t="Include" />
+          <e p="MenuController.cs" t="Include" />
+          <e p="QuestionData.cs" t="Include" />
+          <e p="RoundData.cs" t="Include" />
+          <e p="SimpleObjectPool.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Tubes.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\Ill Be There\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ill Be There\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Tubes.-1876359436.00" t="ExcludeRecursive" />
+  </component>
+</project>
