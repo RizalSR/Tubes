@@ -4,81 +4,52 @@ using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
-    public bool isGrounded = false; // untuk mengecek karakter berada di ground
-	public bool isFacingRight = false;
-    public Transform batas1; //digunakan untuk batas gerak ke kiri
-	public Transform batas2; // digunakan untuk batas gerak ke kanan	 
-	float speed = 2; // kecepatan enemy bergerak
+    float dirX;
 
+	[SerializeField]
+	float moveSpeed = 3f;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-    
-    void Update(){
-    if (isGrounded) 
-        {
-            if (isFacingRight)
-                MoveRight ();
-            else
-                MoveLeft ();
-            if (transform.position.x >= batas2.position.x && isFacingRight)
-                Flip();
-            else if (transform.position.x <= batas1.position.x && !isFacingRight)
-                Flip ();
-        }
-    }
-    void MoveRight()
-    {
-        Vector3 pos = transform.position;
-        pos.x += speed * Time.deltaTime;
-        transform.position = pos;
-        if (!isFacingRight)
-        {
-            Flip();
-        }
-    }
-    void MoveLeft()
-    {
-        Vector3 pos = transform.position;
-        pos.x -= speed * Time.deltaTime;
-        transform.position = pos;
-        if (isFacingRight)
-        {
-            Flip();
-        }
-    }
-    void Flip()
-    {
-        Vector3 theScale = transform.localScale;
-        theScale.x *= -1;
-        transform.localScale = theScale;
-        isFacingRight = !isFacingRight;
-    }
-    void OnCollisionEnter2D(Collision2D col)
-    {
-        if (col.gameObject.CompareTag("Ground"))
-        {
-            isGrounded = true;
-        }
-    }
-    //digunakan untuk mengecek apakah Player masih diatas tanah atau tidak
-    void OnCollisionStay2D(Collision2D col)
-    {
-        if (col.gameObject.CompareTag("Ground"))
-        {
-            isGrounded = true;
-        }
-    }
-    //digunakan untuk memberi tahu Player bahwa sudah tidak diatas tanah
-    void OnCollisionExit2D(Collision2D col)
-    {
-        if (col.gameObject.CompareTag("Ground"))
-        {
-            isGrounded = false;
-        }
-    }
+	Rigidbody2D rb;
 
+	bool facingRight = false;
+
+	Vector3 localScale;
+
+	// Use this for initialization
+	void Start () {
+		localScale = transform.localScale;
+		rb = GetComponent<Rigidbody2D> ();
+		dirX = -1f;
+	}
+
+	// Update is called once per frame
+	void Update () {
+		if (transform.position.x < -9f)
+			dirX = 1f;
+		else if (transform.position.x > 9f)
+			dirX = -1f;
+	}
+
+	void FixedUpdate()
+	{
+		rb.velocity = new Vector2 (dirX * moveSpeed, rb.velocity.y);
+	}
+
+	void LateUpdate()
+	{
+		CheckWhereToFace ();
+	}
+
+	void CheckWhereToFace()
+	{
+		if (dirX > 0)
+			facingRight = true;
+		else if (dirX < 0)
+			facingRight = false;
+
+		if (((facingRight) && (localScale.x < 0)) || ((!facingRight) && (localScale.x > 0)))
+			localScale.x *= -1;
+
+		transform.localScale = localScale;
+	}
 }
