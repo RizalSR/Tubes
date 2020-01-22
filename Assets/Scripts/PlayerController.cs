@@ -8,11 +8,15 @@ public class PlayerController : MonoBehaviour
     bool isDead = false;
     int idMove = 0;
     Animator anim;
+    private AudioSource audio1;
+	public AudioClip audioclip1;
     
     // Use this for initialization
     private void Start()
     {
         anim = GetComponent<Animator>();
+        audio1 = gameObject.AddComponent<AudioSource>();
+		audio1.clip = audioclip1;
     }
     
     // Update is called once per frame
@@ -107,6 +111,7 @@ public class PlayerController : MonoBehaviour
         {
             Data.score += 15;
             Destroy(collision.gameObject);
+            audio1.Play();
         }
     }
     
