@@ -269,275 +269,283 @@ MonoBehaviour:
         isCorrect: 0
       - answerText: Bahasa Jepang
         isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: Berikut suku bangsa yang bukan berasal dari pulau Jawa adalah
       answer:
-      - answerText: Gajah
+      - answerText: Sunda
+        isCorrect: 0
+      - answerText: Betawi
+        isCorrect: 0
+      - answerText: Jawa
+        isCorrect: 0
+      - answerText: Sasak
         isCorrect: 1
-      - answerText: Harimau
-        isCorrect: 0
-      - answerText: Jerapah
-        isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: Rumah adat dari Jawa Tengah adalah
       answer:
-      - answerText: Gajah
+      - answerText: Tongkonan
+        isCorrect: 0
+      - answerText: Joglo
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Gadang
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Musalaki
         isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: Honai adalah rumah adat yang berasal dari daerah
       answer:
-      - answerText: Gajah
+      - answerText: Sumatra
+        isCorrect: 0
+      - answerText: Kalimantan
+        isCorrect: 0
+      - answerText: Sulawesi
+        isCorrect: 0
+      - answerText: Papua
         isCorrect: 1
-      - answerText: Harimau
-        isCorrect: 0
-      - answerText: Jerapah
-        isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: Wilayah Indonesia terbentang dari
       answer:
-      - answerText: Gajah
-        isCorrect: 1
-      - answerText: Harimau
+      - answerText: Sabang sampai bali
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Anyer sampai Panarukan
         isCorrect: 0
-      - answerText: Kuda
+      - answerText: Jawa sampai Papua
         isCorrect: 0
-    - questionText: Hewan Jahat ?
+      - answerText: Sabang sampai Merauke
+        isCorrect: 0
+    - questionText: Gudeg adalah makanan khas dari daerah
       answer:
-      - answerText: Gajah
+      - answerText: Jakarta
+        isCorrect: 0
+      - answerText: Bali
+        isCorrect: 0
+      - answerText: Yogyakarta
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Maluku
         isCorrect: 0
-      - answerText: Jerapah
-        isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: 'Di tiap suku atau daerah biasanya terdapat kelompok-kelompok
+        atau organisasi. Suatu kelompok dipimpin oleh seseorang yang dihormati dan
+        disegani. Pemimpin ini disebut '
       answer:
-      - answerText: Gajah
+      - answerText: Kepala adat
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Kepala daerah
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Kepala suku
         isCorrect: 0
-      - answerText: Kuda
+      - answerText: Kepala pemerintahan
         isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: Di tiap suku bangsa biasanya terdapat peraturan atau hukum. Peraturan
+        ini ada yang tertulis ada yang tidak tertulis. Peraturan ini sering disebut
+        sebagai
       answer:
-      - answerText: Gajah
+      - answerText: Hukum Rimba
+        isCorrect: 0
+      - answerText: Sanksi
+        isCorrect: 0
+      - answerText: Hukum Social
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Hukum Adat
         isCorrect: 0
-      - answerText: Jerapah
-        isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: Rumah adat yang berasal dari Kalimantan adalah
       answer:
-      - answerText: Gajah
+      - answerText: Dayak
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Joglo
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Gadang
         isCorrect: 0
-      - answerText: Kuda
+      - answerText: Tongkonan
         isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: Tari Saman berasal dari
       answer:
-      - answerText: Gajah
+      - answerText: Maluku
+        isCorrect: 0
+      - answerText: Jawa Timur
+        isCorrect: 0
+      - answerText: Bali
+        isCorrect: 0
+      - answerText: Aceh
         isCorrect: 1
-      - answerText: Harimau
-        isCorrect: 0
-      - answerText: Jerapah
-        isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: 'Semboyan Negara Indonesia adalah '
       answer:
-      - answerText: Gajah
+      - answerText: Bhineka Tunggal Ika
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Pancasila
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Garuda Pancasila
         isCorrect: 0
-      - answerText: Kuda
+      - answerText: UUD 1945
         isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: Alat musik tradisional sering disebut
       answer:
-      - answerText: Gajah
+      - answerText: Alat musik daerah
+        isCorrect: 0
+      - answerText: Keroncong
+        isCorrect: 0
+      - answerText: Gamelan
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Gurindam
         isCorrect: 0
-      - answerText: Jerapah
-        isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: 'Semboyan Bhinneka Tunggal Ika mempunyai arti '
       answer:
-      - answerText: Gajah
+      - answerText: Meskipun berbeda-beda tetapi tetap satu jua
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Berbeda-beda tetapi bersatu jaya jua
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Satu tetap berbeda
         isCorrect: 0
-      - answerText: Kuda
+      - answerText: Berbeda-beda tetapi bersama jua
         isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: 'Lagu Apuse dan Yamko Rambe Yamko berasal dari daerah '
       answer:
-      - answerText: Gajah
+      - answerText: Kalimantan
+        isCorrect: 0
+      - answerText: Papua
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Jawa Tengah
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Aceh
         isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: 'Upacara pembakaran jenazah di Bali dikenal dengan nama '
       answer:
-      - answerText: Gajah
+      - answerText: Rambu Solok
+        isCorrect: 0
+      - answerText: Kenduri
+        isCorrect: 0
+      - answerText: Grebrgan
+        isCorrect: 0
+      - answerText: Ngaben
         isCorrect: 1
-      - answerText: Harimau
-        isCorrect: 0
-      - answerText: Jerapah
-        isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: 'Alat musik kecapi dimainkan dengan cara '
       answer:
-      - answerText: Gajah
+      - answerText: Dipetik
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Dipukul
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Ditabuh
         isCorrect: 0
-      - answerText: Kuda
+      - answerText: Ditiup
         isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: 'Kepercayaan terhadap roh-roh nenek moyang disebut '
       answer:
-      - answerText: Gajah
+      - answerText: Dinamisme
+        isCorrect: 0
+      - answerText: Mistis
+        isCorrect: 0
+      - answerText: Animisme
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Syirik
         isCorrect: 0
-      - answerText: Jerapah
-        isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: 'Reog adalah salah satu kesenian daerah yang terkenal dari kota '
       answer:
-      - answerText: Gajah
+      - answerText: Solo
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Palembang
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Pontianak
         isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+      - answerText: Ponorogo
+        isCorrect: 1
+    - questionText: 'Sistem kekerabatan menurut garis ibu disebut system '
       answer:
-      - answerText: Gajah
+      - answerText: Patrilineal
+        isCorrect: 0
+      - answerText: Matrilineal
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Unilateral
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Matrilokal
         isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: 'Tari Kecak berasal dari '
       answer:
-      - answerText: Gajah
+      - answerText: Manado
+        isCorrect: 0
+      - answerText: Jawa Barat
+        isCorrect: 0
+      - answerText: Aceh
+        isCorrect: 0
+      - answerText: Bali
         isCorrect: 1
-      - answerText: Harimau
-        isCorrect: 0
-      - answerText: Jerapah
-        isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: 'Bermata pencaharian sebagai nelayan, petani garam dan petani
+        tambak adalah penduduk yang tinggal di wilayah '
       answer:
-      - answerText: Gajah
+      - answerText: Laut
+        isCorrect: 0
+      - answerText: Pesisir
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Perkebunan
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Agraris
         isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: 'Sampai sekarang ini sebagian besar persebaran penduduk di Indonesia
+        terkonsentrasi di pulau '
       answer:
-      - answerText: Gajah
+      - answerText: Jawa
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Sumatra
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Kalimantan
         isCorrect: 0
-      - answerText: Kuda
+      - answerText: Papua
         isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: 'Provinsi yang mempunyai angka kepadatan penduduk paling tinggi
+        yaitu '
       answer:
-      - answerText: Gajah
+      - answerText: Jawa Tengah
+        isCorrect: 0
+      - answerText: Yogyakarta
+        isCorrect: 0
+      - answerText: Bali
+        isCorrect: 0
+      - answerText: DKI Jakarta
         isCorrect: 1
-      - answerText: Harimau
-        isCorrect: 0
-      - answerText: Jerapah
-        isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: Tiga warisan dunia yg ada di indonesia yaitu
       answer:
-      - answerText: Gajah
+      - answerText: Kidal, prambanan, mendut
+        isCorrect: 0
+      - answerText: Prambanan, borobudur, situs sangiran
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Kalasan, kidal, mendut
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Prambanan, mendut, kalasan
         isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: Paham yang selalu mencerminkan kehidupan keduniawian dinamakan
       answer:
-      - answerText: Gajah
+      - answerText: Westernisme
+        isCorrect: 0
+      - answerText: Hedhonisme
+        isCorrect: 0
+      - answerText: Matrealisme
+        isCorrect: 0
+      - answerText: Konsumerisme
         isCorrect: 1
-      - answerText: Harimau
-        isCorrect: 0
-      - answerText: Jerapah
-        isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: Batik adalah salah satu contoh
       answer:
-      - answerText: Gajah
+      - answerText: Budaya
+        isCorrect: 0
+      - answerText: Budaya nasional
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Budaya lokal
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Budaya masyarakat
         isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: Pelestarian kebudayaan dapat dilakukan salah satunya yaitu melalui
       answer:
-      - answerText: Gajah
+      - answerText: Pembuatan industri kebudayaan
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Pembentukan kelompok sosial
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Pembuatan cagar budaya
         isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Jahat ?
+      - answerText: Pengembangan potensi wisata dan ekonomi kreatif
+        isCorrect: 1
+    - questionText: Yang menjadi modal besar bangsa Indonesia untuk sejajar dengan
+        negara besar lainnya adalah
       answer:
-      - answerText: Gajah
+      - answerText: Keragaman budaya
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Perpecahan antar suku
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Keberagaman agama
         isCorrect: 0
-      - answerText: Kuda
+      - answerText: Menolak toleransi
         isCorrect: 0
 --- !u!4 &1751234867
 Transform:
