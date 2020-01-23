@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using Random = UnityEngine.Random;
 
@@ -20,7 +21,7 @@ public class GameController : MonoBehaviour
     private RoundData currentRoundData;
     private QuestionData[] questionPool;
 
-    private Boolean isRoundActive;
+    public Boolean isRoundActive;
     private float timeRemaining;
     private int questionIndex;
     private int playerScore;
@@ -34,7 +35,7 @@ public class GameController : MonoBehaviour
         questionIndex = Random.Range(0, questionPool.Length);
         playerScore = 0;
         ShowQuestion();
-        isRoundActive = true;
+        isRoundActive = false;
         UpdateTimeRemainingDisplay();
         
     }
@@ -87,7 +88,13 @@ public class GameController : MonoBehaviour
     {
         isRoundActive = false;
         questionDisplayPanel.SetActive(false);
-        roundDisplayPanel.SetActive(true);
+        Time.timeScale = 1;
+    }
+
+    public void StartRound()
+    {
+        isRoundActive = true;
+        questionDisplayPanel.SetActive(true);
     }
 
     private void UpdateTimeRemainingDisplay()

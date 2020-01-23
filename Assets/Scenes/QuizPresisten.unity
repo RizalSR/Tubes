@@ -237,35 +237,315 @@ MonoBehaviour:
     timeLimitInSeconds: 30
     pointAddedForCorrextAnswer: 10
     question:
-    - questionText: Binatang dengan Belalai ?
+    - questionText: 'Dahulu, orang Indonesia berasal dari nenek moyang yang sama.
+        Yaitu dari bangsa? '
       answer:
-      - answerText: Gajah
+      - answerText: Italia
+        isCorrect: 0
+      - answerText: Roma
+        isCorrect: 0
+      - answerText: Yunan
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Persia
         isCorrect: 0
-      - answerText: Jerapah
-        isCorrect: 0
-      - answerText: Kuda
-        isCorrect: 0
-    - questionText: Hewan Cantik?
+    - questionText: Sekumpulan masyarakat yang memiliki kebiasaan dan budaya yang
+        sama disebut ?
       answer:
-      - answerText: Gajah
+      - answerText: Bangsa
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Rakyat
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Negara
         isCorrect: 0
-      - answerText: Kuda
+      - answerText: Warga
         isCorrect: 0
-    - questionText: Hewan Jahat ?
+    - questionText: Bahasa nasional Bangsa Indonesia adalah ?
       answer:
-      - answerText: Gajah
+      - answerText: Bahasa Inggris
+        isCorrect: 0
+      - answerText: Bahasa Idonesia
         isCorrect: 1
-      - answerText: Harimau
+      - answerText: Bahasa Jawa
         isCorrect: 0
-      - answerText: Jerapah
+      - answerText: Bahasa Jepang
         isCorrect: 0
-      - answerText: Kuda
+    - questionText: Berikut suku bangsa yang bukan berasal dari pulau Jawa adalah
+      answer:
+      - answerText: Sunda
+        isCorrect: 0
+      - answerText: Betawi
+        isCorrect: 0
+      - answerText: Jawa
+        isCorrect: 0
+      - answerText: Sasak
+        isCorrect: 1
+    - questionText: Rumah adat dari Jawa Tengah adalah
+      answer:
+      - answerText: Tongkonan
+        isCorrect: 0
+      - answerText: Joglo
+        isCorrect: 1
+      - answerText: Gadang
+        isCorrect: 0
+      - answerText: Musalaki
+        isCorrect: 0
+    - questionText: Honai adalah rumah adat yang berasal dari daerah
+      answer:
+      - answerText: Sumatra
+        isCorrect: 0
+      - answerText: Kalimantan
+        isCorrect: 0
+      - answerText: Sulawesi
+        isCorrect: 0
+      - answerText: Papua
+        isCorrect: 1
+    - questionText: Wilayah Indonesia terbentang dari
+      answer:
+      - answerText: Sabang sampai bali
+        isCorrect: 0
+      - answerText: Anyer sampai Panarukan
+        isCorrect: 0
+      - answerText: Jawa sampai Papua
+        isCorrect: 0
+      - answerText: Sabang sampai Merauke
+        isCorrect: 0
+    - questionText: Gudeg adalah makanan khas dari daerah
+      answer:
+      - answerText: Jakarta
+        isCorrect: 0
+      - answerText: Bali
+        isCorrect: 0
+      - answerText: Yogyakarta
+        isCorrect: 1
+      - answerText: Maluku
+        isCorrect: 0
+    - questionText: 'Di tiap suku atau daerah biasanya terdapat kelompok-kelompok
+        atau organisasi. Suatu kelompok dipimpin oleh seseorang yang dihormati dan
+        disegani. Pemimpin ini disebut '
+      answer:
+      - answerText: Kepala adat
+        isCorrect: 1
+      - answerText: Kepala daerah
+        isCorrect: 0
+      - answerText: Kepala suku
+        isCorrect: 0
+      - answerText: Kepala pemerintahan
+        isCorrect: 0
+    - questionText: Di tiap suku bangsa biasanya terdapat peraturan atau hukum. Peraturan
+        ini ada yang tertulis ada yang tidak tertulis. Peraturan ini sering disebut
+        sebagai
+      answer:
+      - answerText: Hukum Rimba
+        isCorrect: 0
+      - answerText: Sanksi
+        isCorrect: 0
+      - answerText: Hukum Social
+        isCorrect: 1
+      - answerText: Hukum Adat
+        isCorrect: 0
+    - questionText: Rumah adat yang berasal dari Kalimantan adalah
+      answer:
+      - answerText: Dayak
+        isCorrect: 1
+      - answerText: Joglo
+        isCorrect: 0
+      - answerText: Gadang
+        isCorrect: 0
+      - answerText: Tongkonan
+        isCorrect: 0
+    - questionText: Tari Saman berasal dari
+      answer:
+      - answerText: Maluku
+        isCorrect: 0
+      - answerText: Jawa Timur
+        isCorrect: 0
+      - answerText: Bali
+        isCorrect: 0
+      - answerText: Aceh
+        isCorrect: 1
+    - questionText: 'Semboyan Negara Indonesia adalah '
+      answer:
+      - answerText: Bhineka Tunggal Ika
+        isCorrect: 1
+      - answerText: Pancasila
+        isCorrect: 0
+      - answerText: Garuda Pancasila
+        isCorrect: 0
+      - answerText: UUD 1945
+        isCorrect: 0
+    - questionText: Alat musik tradisional sering disebut
+      answer:
+      - answerText: Alat musik daerah
+        isCorrect: 0
+      - answerText: Keroncong
+        isCorrect: 0
+      - answerText: Gamelan
+        isCorrect: 1
+      - answerText: Gurindam
+        isCorrect: 0
+    - questionText: 'Semboyan Bhinneka Tunggal Ika mempunyai arti '
+      answer:
+      - answerText: Meskipun berbeda-beda tetapi tetap satu jua
+        isCorrect: 1
+      - answerText: Berbeda-beda tetapi bersatu jaya jua
+        isCorrect: 0
+      - answerText: Satu tetap berbeda
+        isCorrect: 0
+      - answerText: Berbeda-beda tetapi bersama jua
+        isCorrect: 0
+    - questionText: 'Lagu Apuse dan Yamko Rambe Yamko berasal dari daerah '
+      answer:
+      - answerText: Kalimantan
+        isCorrect: 0
+      - answerText: Papua
+        isCorrect: 1
+      - answerText: Jawa Tengah
+        isCorrect: 0
+      - answerText: Aceh
+        isCorrect: 0
+    - questionText: 'Upacara pembakaran jenazah di Bali dikenal dengan nama '
+      answer:
+      - answerText: Rambu Solok
+        isCorrect: 0
+      - answerText: Kenduri
+        isCorrect: 0
+      - answerText: Grebrgan
+        isCorrect: 0
+      - answerText: Ngaben
+        isCorrect: 1
+    - questionText: 'Alat musik kecapi dimainkan dengan cara '
+      answer:
+      - answerText: Dipetik
+        isCorrect: 1
+      - answerText: Dipukul
+        isCorrect: 0
+      - answerText: Ditabuh
+        isCorrect: 0
+      - answerText: Ditiup
+        isCorrect: 0
+    - questionText: 'Kepercayaan terhadap roh-roh nenek moyang disebut '
+      answer:
+      - answerText: Dinamisme
+        isCorrect: 0
+      - answerText: Mistis
+        isCorrect: 0
+      - answerText: Animisme
+        isCorrect: 1
+      - answerText: Syirik
+        isCorrect: 0
+    - questionText: 'Reog adalah salah satu kesenian daerah yang terkenal dari kota '
+      answer:
+      - answerText: Solo
+        isCorrect: 1
+      - answerText: Palembang
+        isCorrect: 0
+      - answerText: Pontianak
+        isCorrect: 0
+      - answerText: Ponorogo
+        isCorrect: 1
+    - questionText: 'Sistem kekerabatan menurut garis ibu disebut system '
+      answer:
+      - answerText: Patrilineal
+        isCorrect: 0
+      - answerText: Matrilineal
+        isCorrect: 1
+      - answerText: Unilateral
+        isCorrect: 0
+      - answerText: Matrilokal
+        isCorrect: 0
+    - questionText: 'Tari Kecak berasal dari '
+      answer:
+      - answerText: Manado
+        isCorrect: 0
+      - answerText: Jawa Barat
+        isCorrect: 0
+      - answerText: Aceh
+        isCorrect: 0
+      - answerText: Bali
+        isCorrect: 1
+    - questionText: 'Bermata pencaharian sebagai nelayan, petani garam dan petani
+        tambak adalah penduduk yang tinggal di wilayah '
+      answer:
+      - answerText: Laut
+        isCorrect: 0
+      - answerText: Pesisir
+        isCorrect: 1
+      - answerText: Perkebunan
+        isCorrect: 0
+      - answerText: Agraris
+        isCorrect: 0
+    - questionText: 'Sampai sekarang ini sebagian besar persebaran penduduk di Indonesia
+        terkonsentrasi di pulau '
+      answer:
+      - answerText: Jawa
+        isCorrect: 1
+      - answerText: Sumatra
+        isCorrect: 0
+      - answerText: Kalimantan
+        isCorrect: 0
+      - answerText: Papua
+        isCorrect: 0
+    - questionText: 'Provinsi yang mempunyai angka kepadatan penduduk paling tinggi
+        yaitu '
+      answer:
+      - answerText: Jawa Tengah
+        isCorrect: 0
+      - answerText: Yogyakarta
+        isCorrect: 0
+      - answerText: Bali
+        isCorrect: 0
+      - answerText: DKI Jakarta
+        isCorrect: 1
+    - questionText: Tiga warisan dunia yg ada di indonesia yaitu
+      answer:
+      - answerText: Kidal, prambanan, mendut
+        isCorrect: 0
+      - answerText: Prambanan, borobudur, situs sangiran
+        isCorrect: 1
+      - answerText: Kalasan, kidal, mendut
+        isCorrect: 0
+      - answerText: Prambanan, mendut, kalasan
+        isCorrect: 0
+    - questionText: Paham yang selalu mencerminkan kehidupan keduniawian dinamakan
+      answer:
+      - answerText: Westernisme
+        isCorrect: 0
+      - answerText: Hedhonisme
+        isCorrect: 0
+      - answerText: Matrealisme
+        isCorrect: 0
+      - answerText: Konsumerisme
+        isCorrect: 1
+    - questionText: Batik adalah salah satu contoh
+      answer:
+      - answerText: Budaya
+        isCorrect: 0
+      - answerText: Budaya nasional
+        isCorrect: 1
+      - answerText: Budaya lokal
+        isCorrect: 0
+      - answerText: Budaya masyarakat
+        isCorrect: 0
+    - questionText: Pelestarian kebudayaan dapat dilakukan salah satunya yaitu melalui
+      answer:
+      - answerText: Pembuatan industri kebudayaan
+        isCorrect: 1
+      - answerText: Pembentukan kelompok sosial
+        isCorrect: 0
+      - answerText: Pembuatan cagar budaya
+        isCorrect: 0
+      - answerText: Pengembangan potensi wisata dan ekonomi kreatif
+        isCorrect: 1
+    - questionText: Yang menjadi modal besar bangsa Indonesia untuk sejajar dengan
+        negara besar lainnya adalah
+      answer:
+      - answerText: Keragaman budaya
+        isCorrect: 1
+      - answerText: Perpecahan antar suku
+        isCorrect: 0
+      - answerText: Keberagaman agama
+        isCorrect: 0
+      - answerText: Menolak toleransi
         isCorrect: 0
 --- !u!4 &1751234867
 Transform:
