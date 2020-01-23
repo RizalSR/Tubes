@@ -24,12 +24,12 @@ public class Menu : MonoBehaviour
 
     public void NextStory1()
     {
-        SceneManager.LoadScene("Story1");
+        SceneManager.LoadScene("Story2");
     }
 
     public void NextStory2()
     {
-        SceneManager.LoadScene("Story2");
+        SceneManager.LoadScene("Story3");
     }
 
     public void Mainkan()
