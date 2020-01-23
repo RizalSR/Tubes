@@ -22,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="59">
-              <caret line="98" column="36" lean-forward="true" selection-start-line="98" selection-start-column="36" selection-end-line="98" selection-end-column="36" />
+              <caret line="98" column="36" selection-start-line="98" selection-start-column="36" selection-end-line="98" selection-end-column="36" />
               <folding>
                 <marker date="1579755075037" expanded="false" signature="6:184" ph="..." />
                 <marker date="1579755075037" expanded="true" signature="230:3634" ph="{...}" />
@@ -97,7 +97,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/KillPlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <marker date="1579693953678" expanded="false" signature="6:113" ph="..." />
                 <marker date="1579693953678" expanded="true" signature="154:843" ph="{...}" />
@@ -238,12 +238,12 @@
       <option name="presentableId" value="Default" />
       <updated>1579428239426</updated>
       <workItem from="1579428255706" duration="12846000" />
-      <workItem from="1579754236567" duration="837000" />
+      <workItem from="1579754236567" duration="1437000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17964000" />
+    <option name="totallyTimeSpent" value="18564000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -255,7 +255,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27680525" />
@@ -352,7 +352,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/KillPlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
             <marker date="1579693953678" expanded="false" signature="6:113" ph="..." />
             <marker date="1579693953678" expanded="true" signature="154:843" ph="{...}" />
@@ -394,7 +394,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="59">
-          <caret line="98" column="36" lean-forward="true" selection-start-line="98" selection-start-column="36" selection-end-line="98" selection-end-column="36" />
+          <caret line="98" column="36" selection-start-line="98" selection-start-column="36" selection-end-line="98" selection-end-column="36" />
           <folding>
             <marker date="1579755075037" expanded="false" signature="6:184" ph="..." />
             <marker date="1579755075037" expanded="true" signature="230:3634" ph="{...}" />
