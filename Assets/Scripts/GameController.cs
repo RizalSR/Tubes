@@ -67,18 +67,27 @@ public class GameController : MonoBehaviour
 
     public void AnswerButtonClicked(bool isCorrect)
     {
+//        if (isCorrect)
+//        {
+//            playerScore += currentRoundData.pointAddedForCorrextAnswer;
+//            scoreDisplay.text = "Score : " + playerScore.ToString();
+//        } 
+//        if (questionPool.Length > questionIndex + 1)
+//        {
+//            questionIndex++;
+//            ShowQuestion();
+//        } else
+//        {
+//            EndRound();
+//        }
         if (isCorrect)
         {
-            playerScore += currentRoundData.pointAddedForCorrextAnswer;
-            scoreDisplay.text = "Score : " + playerScore.ToString();
-        } 
-        if (questionPool.Length > questionIndex + 1)
-        {
-            questionIndex++;
-            ShowQuestion();
-        } else
-        {
             EndRound();
+        }
+        else
+        {
+            questionIndex = Random.Range(0, questionPool.Length);
+            ShowQuestion();
         }
         
         
@@ -87,8 +96,10 @@ public class GameController : MonoBehaviour
     public void EndRound()
     {
         isRoundActive = false;
+        BoxScript.activeBox = false;
         questionDisplayPanel.SetActive(false);
         Time.timeScale = 1;
+        
     }
 
     public void StartRound()
