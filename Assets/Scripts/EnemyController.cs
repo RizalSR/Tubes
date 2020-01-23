@@ -49,7 +49,6 @@ public class EnemyController : MonoBehaviour
 
 		if (((facingRight) && (localScale.x < 0)) || ((!facingRight) && (localScale.x > 0)))
 			localScale.x *= -1;
-
 		transform.localScale = localScale;
 	}
 }
