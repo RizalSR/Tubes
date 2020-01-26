@@ -13,7 +13,7 @@ public class Menu : MonoBehaviour
 
     public void Pengaturan()
     {
-        SceneManager.LoadScene("Settings");
+        SceneManager.LoadScene("Setings");
     }
 
     public void Keluar()
